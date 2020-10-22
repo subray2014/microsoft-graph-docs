@@ -17,6 +17,22 @@ This changelog covers specific API-level changes in Microsoft Graph v1.0 and bet
 
 For a summary of the value of these API changes, as well as recent tools, components, guidance, and tutorial additions, see [What's new in Microsoft Graph](whats-new-overview.md).
 
+## December 2020
+
+
+### Identity and access | Devices
+
+| **Change type** | **Version** | **Description** |
+|:---|:---|:---|
+| Addition | beta | Added the **deviceCategory** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **deviceOwnership** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **domainName** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **enrollmentProfileName** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **enrollmentType** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **isRooted** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **managementType** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **registrationDateTime** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+
 ## November 2020
 
 
