@@ -18,7 +18,8 @@ Retrieve a shared access signature (SAS) for uploading source files to Azure blo
 
 The upload URL is provided only for the [CSV data provider](../resources/educationcsvdataprovider.md).
 
-> [!WARNING]: All uploaded file names and extensions must be lower-cased (e.g. `student.csv` not `Student.csv`). Blobs are case-sensitive, and using mixed-cased file names will result in validation errors and synchronization failure.. 
+> [!WARNING]
+> All uploaded file names and extensions must be lowercase (for example, `student.csv` not `Student.csv`). Blobs are case-sensitive, and using mixed-cased file names will result in validation errors and synchronization failure.. 
 
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
