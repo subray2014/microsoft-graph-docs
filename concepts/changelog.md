@@ -1967,6 +1967,7 @@ Microsoft Search is now exposing a way to search and index data in Microsoft Gra
 | Addition        | Beta        | Added **synchronizationJobSettings** property to the [synchronizationJob](/graph/api/resources/synchronization-synchronizationjob?view=graph-rest-beta&preserve-view=true) resource.        |
 | Addition        | Beta        | Added new possible values for the **reason** property in the [synchronizationQuarantine](/graph/api/resources/synchronization-quarantine?view=graph-rest-beta&preserve-view=true) resource. |
 | Addition        | Beta        | Added the capability to manage password single sign on credentials on the [servicePrincipal object](/graph/api/resources/serviceprincipal?view=graph-rest-beta&preserve-view=true).         |
+| Change          | Beta        | Updated [BitLocker recovery](/graph/api/resources/bitlockerrecoverykey?view=graph-rest-beta&preserve-view=true) endpoint to fall under /informationProtection. |
 
 ### Mail
 

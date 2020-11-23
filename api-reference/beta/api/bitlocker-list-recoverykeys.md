@@ -42,7 +42,7 @@ To get a list of BitLocker keys within the tenant:
 }
 -->
 ``` http
-GET /bitlocker/recoveryKeys
+GET /informationProtection/bitlocker/recoveryKeys
 ```
 
 To get a list of BitLocker keys within the tenant filtered by the **device id**:
@@ -52,7 +52,7 @@ To get a list of BitLocker keys within the tenant filtered by the **device id**:
 }
 -->
 ``` http
-GET /bitlocker/recoveryKeys?$filter=deviceId eq '{deviceId}'
+GET /informationProtection/bitlocker/recoveryKeys?$filter=deviceId eq '{deviceId}'
 ```
 
 ## Optional query parameters
@@ -89,7 +89,7 @@ The following is an example of the request.
 }
 -->
 ``` http
-GET https://graph.microsoft.com/beta/bitlocker/recoveryKeys
+GET https://graph.microsoft.com/beta/informationProtection/bitlocker/recoveryKeys
 ocp-client-name: "My Friendly Client"
 ocp-client-version: "1.2"
 ```
@@ -160,7 +160,7 @@ The following is an example of the request.
 }
 -->
 ``` http
-GET https://graph.microsoft.com/beta/bitlocker/recoveryKeys?$filter=deviceId eq '1ab40ab2-32a8-4b00-b6b5-ba724e407de9'
+GET https://graph.microsoft.com/beta/informationProtection/bitlocker/recoveryKeys?$filter=deviceId eq '1ab40ab2-32a8-4b00-b6b5-ba724e407de9'
 ocp-client-name: "My Friendly Client"
 ocp-client-version: "1.2"
 ```
