@@ -12125,6 +12125,8 @@ items:
         items:
         - name: List alerts
           href: api/alert-list.md
+        - name: Create alert
+          href: api/alert-create.md
         - name: Get alert
           href: api/alert-get.md
         - name: Update alert

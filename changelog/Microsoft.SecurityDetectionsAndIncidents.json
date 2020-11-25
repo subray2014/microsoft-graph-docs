@@ -1,0 +1,86 @@
+{
+    "changelog": [
+        {
+            "ChangeList": [
+                {
+                    "Id": "31964745-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Property",
+                    "ChangedApiName": "alertDetections",
+                    "ChangeType": "Addition",
+                    "Description": "Added the **alertDetections** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource",
+                    "Target": "alert"
+                },
+                {
+                    "Id": "3198a86c-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Property",
+                    "ChangedApiName": "investigationSecurityStates",
+                    "ChangeType": "Addition",
+                    "Description": "Added the **investigationSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource",
+                    "Target": "alert"
+                },
+                {
+                    "Id": "319b0a26-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Property",
+                    "ChangedApiName": "lastEventDateTime",
+                    "ChangeType": "Addition",
+                    "Description": "Added the **lastEventDateTime** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource",
+                    "Target": "alert"
+                },
+                {
+                    "Id": "319d6f80-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Property",
+                    "ChangedApiName": "messageSecurityStates",
+                    "ChangeType": "Addition",
+                    "Description": "Added the **messageSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource",
+                    "Target": "alert"
+                },
+                {
+                    "Id": "319fd174-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Property",
+                    "ChangedApiName": "uriClickSecurityStates",
+                    "ChangeType": "Addition",
+                    "Description": "Added the **uriClickSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource",
+                    "Target": "alert"
+                },
+                {
+                    "Id": "31a2322e-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Resource",
+                    "ChangedApiName": "alertDetection",
+                    "ChangeType": "Addition",
+                    "Description": "Added the [alertDetection](https://docs.microsoft.com/en-us/graph/api/resources/alertDetection?view=graph-rest-beta) resource type",
+                    "Target": "alertDetection"
+                },
+                {
+                    "Id": "31a493e8-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Resource",
+                    "ChangedApiName": "investigationSecurityState",
+                    "ChangeType": "Addition",
+                    "Description": "Added the [investigationSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/investigationSecurityState?view=graph-rest-beta) resource type",
+                    "Target": "investigationSecurityState"
+                },
+                {
+                    "Id": "31a6f8b8-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Resource",
+                    "ChangedApiName": "messageSecurityState",
+                    "ChangeType": "Addition",
+                    "Description": "Added the [messageSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/messageSecurityState?view=graph-rest-beta) resource type",
+                    "Target": "messageSecurityState"
+                },
+                {
+                    "Id": "31abbd1d-2f54-11eb-9836-6aeb5ee7dda6",
+                    "ApiChange": "Resource",
+                    "ChangedApiName": "uriClickSecurityState",
+                    "ChangeType": "Addition",
+                    "Description": "Added the [uriClickSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/uriClickSecurityState?view=graph-rest-beta) resource type",
+                    "Target": "uriClickSecurityState"
+                }
+            ],
+            "Id": "3193e2e8-2f54-11eb-9836-6aeb5ee7dda6",
+            "Cloud": "prd",
+            "Version": "beta",
+            "CreatedDateTime": "2020-11-25T19:27:02.046Z",
+            "WorkloadArea": "Security",
+            "SubArea": ""
+        }
+    ]
+}

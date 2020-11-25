@@ -13,6 +13,20 @@ For a summary of the value of these API changes, as well as recent tools, compon
 
 ## November 2020
 
+### Security
+
+| **Change type** | **Version** | **Description** |
+|:---|:---|:---|
+|Addition|beta|Added the **alertDetections** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource|
+|Addition|beta|Added the **investigationSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource|
+|Addition|beta|Added the **lastEventDateTime** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource|
+|Addition|beta|Added the **messageSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource|
+|Addition|beta|Added the **uriClickSecurityStates** property to [alert](https://docs.microsoft.com/en-us/graph/api/resources/alert?view=graph-rest-beta) resource|
+|Addition|beta|Added the [alertDetection](https://docs.microsoft.com/en-us/graph/api/resources/alertDetection?view=graph-rest-beta) resource type|
+|Addition|beta|Added the [investigationSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/investigationSecurityState?view=graph-rest-beta) resource type|
+|Addition|beta|Added the [messageSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/messageSecurityState?view=graph-rest-beta) resource type|
+|Addition|beta|Added the [resultInfo](https://docs.microsoft.com/en-us/graph/api/resources/resultInfo?view=graph-rest-beta) resource type|
+|Addition|beta|Added the [uriClickSecurityState](https://docs.microsoft.com/en-us/graph/api/resources/uriClickSecurityState?view=graph-rest-beta) resource type|
 
 ### Change notifications
 
