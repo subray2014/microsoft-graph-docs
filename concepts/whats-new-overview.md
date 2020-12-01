@@ -32,6 +32,9 @@ See highlights of what's new in the recent two months in Microsoft Graph, [what'
 
 ## November 2020: New in preview only
 
+### Security alerts
+You can now create a new security alert or delete an existing security alert.
+
 ### Devices and apps | Cloud printing
 [Subscribe to change notifications](webhooks.md) on a [print task definition](/graph/api/resources/printtaskdefinition?view=graph-rest-beta&preserve-view=true).
 
