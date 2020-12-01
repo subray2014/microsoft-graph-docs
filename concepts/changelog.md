@@ -17,16 +17,16 @@ For a summary of the value of these API changes, as well as recent tools, compon
 
 | **Change type** | **Version** | **Description** |
 |:---|:---|:---|
-|Addition|beta|Added the **alertDetections** property to [alert](/graph/api/resources/alert?view=graph-rest-beta) resource|
-|Addition|beta|Added the **investigationSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta) resource|
-|Addition|beta|Added the **lastEventDateTime** property to [alert](/graph/api/resources/alert?view=graph-rest-beta) resource|
-|Addition|beta|Added the **messageSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta) resource|
-|Addition|beta|Added the **uriClickSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta) resource|
-|Addition|beta|Added the [alertDetection](/graph/api/resources/alertDetection?view=graph-rest-beta) resource type|
-|Addition|beta|Added the [investigationSecurityState](/graph/api/resources/investigationSecurityState?view=graph-rest-beta) resource type|
-|Addition|beta|Added the [messageSecurityState](/graph/api/resources/messageSecurityState?view=graph-rest-beta) resource type|
-|Addition|beta|Added the [resultInfo](/graph/api/resources/resultInfo?view=graph-rest-beta) resource type|
-|Addition|beta|Added the [uriClickSecurityState](/graph/api/resources/uriClickSecurityState?view=graph-rest-beta) resource type|
+|Addition|beta|Added the **alertDetections** property to [alert](/graph/api/resources/alert?view=graph-rest-beta&preserve-view=true) resource|
+|Addition|beta|Added the **investigationSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta&preserve-view=true) resource|
+|Addition|beta|Added the **lastEventDateTime** property to [alert](/graph/api/resources/alert?view=graph-rest-beta&preserve-view=true) resource|
+|Addition|beta|Added the **messageSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta&preserve-view=true) resource|
+|Addition|beta|Added the **uriClickSecurityStates** property to [alert](/graph/api/resources/alert?view=graph-rest-beta&preserve-view=true) resource|
+|Addition|beta|Added the [alertDetection](/graph/api/resources/alertDetection?view=graph-rest-beta&preserve-view=true) resource type|
+|Addition|beta|Added the [investigationSecurityState](/graph/api/resources/investigationSecurityState?view=graph-rest-beta&preserve-view=true) resource type|
+|Addition|beta|Added the [messageSecurityState](/graph/api/resources/messageSecurityState?view=graph-rest-beta&preserve-view=true) resource type|
+|Addition|beta|Added the [resultInfo](/graph/api/resources/resultInfo?view=graph-rest-beta&preserve-view=true) resource type|
+|Addition|beta|Added the [uriClickSecurityState](/graph/api/resources/uriClickSecurityState?view=graph-rest-beta&preserve-view=true) resource type|
 
 ### Change notifications
 
