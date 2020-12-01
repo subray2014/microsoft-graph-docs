@@ -3,7 +3,7 @@ title: "alertDetection resource type"
 description: "contains information abou the alert detection type"
 author: "preetikr"
 localization_priority: Normal
-ms.prod: "*security"
+ms.prod: "security"
 doc_type: resourcePageType
 ---
 

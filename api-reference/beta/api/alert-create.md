@@ -3,7 +3,7 @@ title: "Create alert"
 description: "Create a new alert object."
 author: "FaithOmbongi"
 localization_priority: Normal
-ms.prod: "security**"
+ms.prod: "security"
 doc_type: apiPageType
 ---
 
