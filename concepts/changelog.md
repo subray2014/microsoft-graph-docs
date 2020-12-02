@@ -80,7 +80,7 @@ For a summary of the value of these API changes, as well as recent tools, compon
 | **Change type** | **Version**   | **Description**                          |
 | :-------------- | :------------ | :--------------------------------------- |
 | Addition | beta | Added the **spa** property to the [application](/graph/api/resources/application?view=graph-rest-beta&preserve-view=true) resource. |
-| Addition | beta | Added the [organizationalBrandingProperties](/graph/api/resources/organizationalbrandingproperties?view=graph-rest-beta&preserve-view=true) resource type and associated methods, which allow for the customization of the visual look and feel of sign-in screens.|
+| Addition | beta | Added the [organizationalBrandingProperties](/graph/api/resources/organizationalbrandingproperties?view=graph-rest-beta&preserve-view=true) resource type and associated methods, which allow for the customization of the visual look and feel of sign-in screens.|| Change          | Beta        | Updated [BitLocker recovery](/graph/api/resources/bitlockerrecoverykey?view=graph-rest-beta&preserve-view=true) endpoint to fall under /informationProtection. |
 
 
 ### Identity and access | Governance
@@ -1967,7 +1967,6 @@ Microsoft Search is now exposing a way to search and index data in Microsoft Gra
 | Addition        | Beta        | Added **synchronizationJobSettings** property to the [synchronizationJob](/graph/api/resources/synchronization-synchronizationjob?view=graph-rest-beta&preserve-view=true) resource.        |
 | Addition        | Beta        | Added new possible values for the **reason** property in the [synchronizationQuarantine](/graph/api/resources/synchronization-quarantine?view=graph-rest-beta&preserve-view=true) resource. |
 | Addition        | Beta        | Added the capability to manage password single sign on credentials on the [servicePrincipal object](/graph/api/resources/serviceprincipal?view=graph-rest-beta&preserve-view=true).         |
-| Change          | Beta        | Updated [BitLocker recovery](/graph/api/resources/bitlockerrecoverykey?view=graph-rest-beta&preserve-view=true) endpoint to fall under /informationProtection. |
 
 ### Mail
 
